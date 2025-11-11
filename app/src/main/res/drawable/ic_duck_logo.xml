@@ -1,0 +1,26 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    <!-- Duck body -->
+    <path
+        android:fillColor="#FFA000"
+        android:pathData="M60,40 Q40,40 30,55 Q25,65 25,75 Q25,85 35,90 Q45,95 60,95 Q75,95 85,90 Q95,85 95,75 Q95,65 90,55 Q80,40 60,40 Z"/>
+    <!-- Duck head -->
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M60,25 Q50,25 45,30 Q40,35 40,42 Q40,50 45,55 Q50,60 60,60 Q70,60 75,55 Q80,50 80,42 Q80,35 75,30 Q70,25 60,25 Z"/>
+    <!-- Duck beak -->
+    <path
+        android:fillColor="#FF6F00"
+        android:pathData="M75,40 Q82,40 85,42 Q88,44 85,46 Q82,48 75,48 Q72,48 72,44 Q72,40 75,40 Z"/>
+    <!-- Duck eye -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M65,35 Q67,35 67,37 Q67,39 65,39 Q63,39 63,37 Q63,35 65,35 Z"/>
+    <!-- Duck wing -->
+    <path
+        android:fillColor="#FF8F00"
+        android:pathData="M40,60 Q35,65 35,70 Q35,75 40,78 Q45,75 45,70 Q45,65 40,60 Z"/>
+</vector>
