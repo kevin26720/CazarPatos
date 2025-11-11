@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Specific Colors for Dark Theme -->
+    <color name="primary_color">#FFBB86FC</color>
+    <color name="primary_dark">#FF3700B3</color>
+    <color name="accent_color">#FF03DAC5</color>
+    <color name="background_color">#FF121212</color>
+    <color name="surface_color">#FF1E1E1E</color>
+    <color name="primary_text">#FFFFFFFF</color>
+    <color name="secondary_text">#B3FFFFFF</color>
+    <color name="icon_tint">#99FFFFFF</color>
+    <color name="error_color">#FFCF6679</color>
+</resources>
