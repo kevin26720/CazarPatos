@@ -22,11 +22,11 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".MainActivity"
+            android:name=".MainActivity" android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar"
             android:exported="false" />
         <activity
-            android:name=".RankingActivity"
-            android:exported="false">
+            android:name=".RankingActivity" android:parentActivityName=".MainActivity"
+            android:exported="true">
         </activity>
     </application>
 
